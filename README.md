@@ -1,13 +1,15 @@
 # Saurabh's Sprint — 3D Endless Subway Runner
 
+    ## © 2026 | Designed & Developed by Mukund Kumar ##
+
 > A high-performance, feature-packed 3D endless runner web game built with **Three.js** and modern Web standards. Inspired by Subway Surfers, fully playable in any browser — no download required.
 
 ---
 
-## Live Demo
+Play now in your browser:  
+  ## Live Demo  - **https://subway-runner-3d-endless-runner-gam.vercel.app/**
 
-Play now in your browser:
-**https://lucent-lollipop-71a903.netlify.app/**
+  ** Git Clone - https://github.com/shivam-jha-89/subway-runner-3d-endless-runner-game
 
 > Works on **Mobile**, **Tablet**, and **Laptop/Desktop** — fully responsive on all screen sizes.
 
